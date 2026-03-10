@@ -22,4 +22,4 @@ My goal is to contribute to organizations by helping safeguard digital assets, s
 ---
 
 ## Learning & Certifications
-- Google Cybersecurity Professional Certificate *(In Progress)*
+- Google Cybersecurity Professional Certificate
